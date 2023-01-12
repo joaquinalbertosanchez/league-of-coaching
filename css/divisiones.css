@@ -1,0 +1,21 @@
+.capa{
+    border: 5px solid red;
+    width: 1000px;
+    height: 200px;
+}
+#cabecera{
+    height: 500px;
+}
+
+#menu{
+    height: 80px;
+}
+#cuerpo{
+    height: 500px;
+}
+#pie{
+    height: 70px;
+}
+#listaordenada{
+    width: 150px; height: 300px;
+}

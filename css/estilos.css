@@ -1,0 +1,27 @@
+table{
+    border: 7px solid blue; border-collapse: collapse;
+}
+td{
+    border: 3px solid red;
+}
+body{
+    background-color: aqua;
+}
+#celda1{
+    height: 90px; 
+}
+#mercurio{
+    height: 60px;
+}
+#fila1{
+    background-color: gray;
+}
+#filafinal{
+    height: 150px;
+}
+#planetajov{
+    height: 150px;
+}
+#celda2{
+    width: 150px;
+}
